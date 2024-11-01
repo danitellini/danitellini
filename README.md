@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a **freelance project manager**, **ESL tutor**
 
 - **Stay-at-Home Mom** | I am a stay-at-home mom of 1 rowdy toddler.
 - **Freelancer** | I work as a project manager and ESL tutor, aiming to transition into full-time coding.
-- **Outdoor Enthusiast** | Love spending time in nature, gardening, and exploring new places.
+- **Outdoor Enthusiast** | Love spending time in nature, gardening (getting sucked down the hydroponics rabbit-hole), and exploring new places.
 - **Aspiring Developer** | Currently exploring **Python** and **web development** with a focus on building practical applications and creating interactive coding resources.
 - **Future Goals** | My goal is to work remotely as a developer, continue learning, and eventually move back to the US.
 
