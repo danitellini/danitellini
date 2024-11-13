@@ -37,9 +37,7 @@ If you'd like to connect, learn more, or discuss potential collaborations, feel 
 
 Happy Coding!
 
-<!---
 [![An image of @danitellini's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/danitellini)](https://holopin.io/@danitellini)
---->
 
 <!---
 danitellini/danitellini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
