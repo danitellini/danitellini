@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a **freelance project manager**, **ESL tutor**
 
 Here are a few things I'm working on:
 
-- **Study Group Management**: If you're part of the [Front-End Engineer path](https://www.codecademy.com/learn/paths/front-end-engineer-career-path) at [Codecademy.com](https://www.codecademy.com), contact me on Circle about getting into a private repository!
+- **Study Group Management**: If you're part of the [Front-End Engineer Study Group](https://www.codecademy.com/learn/paths/front-end-engineer-career-path) at [Codecademy.com](https://www.codecademy.com), contact me on Circle about getting into a private repository!
 - **[OnlineTutoringResources.com](https://www.onlinetutoringresources.com)**: My first client as a freelance web developer! We're working on creating a small eCommerce site for their homemade (and pretty amazing) lesson plans for ESL tutors.
 - **[Budget Tracker Program](https://github.com/danitellini/Budget-Tracker-Program)**: I started this for a Codecademy course project, and would like to further develop this.
 - **[Book Recommendation Program](https://github.com/danitellini/Book-Recommendation-Program)**: This is a new project for a Codecademy course as well that I will be completing as I move through this new unit. ***UPDATE**: This has been put on hold, as I've temporarily suspended this learning path as I continue through another.*
