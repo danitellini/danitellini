@@ -50,7 +50,7 @@ I'm open to working on beginner-friendly coding projects, contributing to open-s
 
 Happy Coding!
 
-[![roadmap.sh](https://roadmap.sh/card/wide/673c9d1639f50dbedc6f323b?variant=dark&roadmaps=frontend)](https://roadmap.sh)
+<!-- [![roadmap.sh](https://roadmap.sh/card/wide/673c9d1639f50dbedc6f323b?variant=dark&roadmaps=frontend)](https://roadmap.sh) -->
 [![An image of @danitellini's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/danitellini)](https://holopin.io/@danitellini)
 
 <!---
